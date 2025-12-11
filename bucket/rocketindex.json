@@ -1,12 +1,12 @@
 {
-  "version": "0.1.0-beta.19",
+  "version": "0.1.0-beta.20",
   "description": "Rocket-fast polyglot code indexer for AI coding agents",
   "homepage": "https://github.com/rocket-tycoon/rocket-index",
   "license": "BSL-1.1",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/rocket-tycoon/rocket-index/releases/download/v0.1.0-beta.19/rocketindex-v0.1.0-beta.19-x86_64-pc-windows-msvc.zip",
-      "hash": "5573cbc7167311d12c42d0bd4d6cf2cfe8869c3e730c0b9469491a11f49d59f2"
+      "url": "https://github.com/rocket-tycoon/rocket-index/releases/download/v0.1.0-beta.20/rocketindex-v0.1.0-beta.20-x86_64-pc-windows-msvc.zip",
+      "hash": "98dba95c21f3675525f66462aa2fababf23a4d450d346aeee193304f5cf8f746"
     }
   },
   "bin": [
